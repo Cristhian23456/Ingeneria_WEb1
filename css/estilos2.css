@@ -1,0 +1,21 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+
+        button {
+            padding: 10px 15px;
+            margin: 5px;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+            color: white;
+            font-weight: bold;
+        }
+        #btn-azul { background-color: blue; }
+        #btn-verde { background-color: green; }
+        #btn-rojo { background-color: red; }
+        #btn-restablecer { background-color: #fff; }
